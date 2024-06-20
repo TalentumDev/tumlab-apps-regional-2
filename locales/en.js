@@ -67,17 +67,6 @@ export const en = {
     "app-lms-title": "Tumlab: LMS (Learning Management System)",
     "app-lms-description":
       "It is a platform designed to provide educators, administrators, and students with a robust and secure integrated system for creating personalized learning environments. Its easily accessible interface, documented resources, and updates make the Tumlab LMS an ideal tool to enhance all types of educational processes.",
-    "app-steam-classrooms-patia-title": "STEAM Classrooms: Patía",
-    "app-steam-classrooms-patia-description":
-      "Discover a world where science, technology, engineering, arts, and mathematics merge in an exciting educational environment: STEAM Classrooms. This innovative approach integrates technical knowledge with creative expression, cultivating critical thinking and problem-solving.",
-    "app-steam-classrooms-valle-title": "STEAM Classrooms: Valle",
-    "app-steam-classrooms-valle-description":
-      "Discover a world where science, technology, engineering, arts, and mathematics merge in an exciting educational environment: STEAM Classrooms. This innovative approach integrates technical knowledge with creative expression, cultivating critical thinking and problem-solving.",
-
-    "app-universum-title": "Universum",
-    "app-universum-description":
-      "Universum is an interactive 3D system consisting of a virtual space where, through an avatar, it's possible to explore different digital environments. These environments complement the educational experience and enable self-management of knowledge. The use of emerging technologies and pedagogies is employed to benefit the educational community.",
-
     "app-agau-title": "AGAU: The Time Guardian",
     "app-agau-description":
       "Learn the essential fundamentals of managing technological waste to safeguard and improve the environment and people's health.",
@@ -119,5 +108,11 @@ export const en = {
       "Discover Krita, the gem od digital painting. Free and open-source licensed under the GPL, created by artists for artists. Ideal for conceptual art, textures, illustrations, and comics. Unleash your creativity with innovative tools and powerful features for beginners and experts alike!",
 	  "app-krita-license-title":"License",
 	  "app-krita-license-description":"https://krita.org/en/about/license",
+	  "app-si-mundo3d-title": "Sistema de Información Mundo 3D",
+	  "app-si-mundo3d-description":
+		"Este sistema permite ingresar, monitorear y evaluar el progreso de los estudiantes mediante la recolección de datos específicos de experiencias interactivas 3D. A través de reportes y estadísticas, facilita el seguimiento del aprendizaje STEAM, permitiendo la toma de decisiones informadas para mejorar el rendimiento académico.",
+		"app-mundo3d-title": "Mundo virtual interactivo 3D",
+		"app-mundo3d-description":
+		  "Es una innovadora herramienta educativa que utiliza una experiencia interactiva 3D para integrar disciplinas STEAM y mejorar la calidad del aprendizaje. Permite a los estudiantes participar en una vivencia inmersiva y lúdica, mientras personalizan sus avatares y seleccionan aventuras educativas específicas desarrolladas en los departamentos del Cauca, Nariño y Valle del Cauca.",
   },
 };
