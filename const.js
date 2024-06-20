@@ -1,5 +1,5 @@
 import { textChangeLanguage } from "./locales/index.js";
-import tumlab from "./info/agent.json" assert { type: "json" };
+// import tumlab from "./info/agent.json" assert { type: "json" };
 
 export const LANGUAGE = "language";
 export const DEFAULT_LANGUAGE = "es";
