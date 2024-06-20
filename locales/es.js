@@ -67,7 +67,7 @@ export const es = {
       "Es una plataforma diseñada para proporcionarle a educadores, administradores y estudiantes un sistema integrado robusto y seguro para crear ambientes de aprendizaje personalizados. Su interfaz de fácil acceso, recursos documentados y actualizaciones hacen del Tumlab LMS un dispositivo ideal para potenciar todo tipo de procesos educativos.",
     "app-agau-title": "AGAU: El protector del tiempo",
     "app-agau-description":
-      "Aprende los fundamentos esenciales de gestión de residuos tecnológicos para salvaguardar y mejorar el medio ambiente y la salud de las personas.",
+      "Ayuda a AgAu, una entidad electromecánica artificial y programable en forma de robot a regresar al año 2200, mejorando el manejo de los desechos de aparatos eléctricos y electrónicos RAEE de la región con ayuda de María, una adolescente de 16 años y su hermano Rafael de 9 años, ambos estudiantes de un colegio público rural de Colombia.",
     "app-simulators-spanish-title": "Simuladores: Español",
     "app-simulators-spanish-description":
       "Realiza simulaciones interactivas de física, química y ciencias basadas en el proyecto PhET de la Universidad de Colorado, en Boulder, bajo licencia CC-BY-4.0. Estos recursos están respaldados por una investigación educativa extensiva e involucran a los estudiantes a través de un entorno intuitivo y lúdico, en el que aprenden  explorando y descubriendo.",

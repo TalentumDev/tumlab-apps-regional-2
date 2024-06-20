@@ -67,9 +67,9 @@ export const en = {
     "app-lms-title": "Tumlab: LMS (Learning Management System)",
     "app-lms-description":
       "It is a platform designed to provide educators, administrators, and students with a robust and secure integrated system for creating personalized learning environments. Its easily accessible interface, documented resources, and updates make the Tumlab LMS an ideal tool to enhance all types of educational processes.",
-    "app-agau-title": "AGAU: The Time Guardian",
+    "app-agau-title": "AGAU: Time protector",
     "app-agau-description":
-      "Learn the essential fundamentals of managing technological waste to safeguard and improve the environment and people's health.",
+      "Help AgAu, an artificial, programmable electromechanical entity in the form of a robot, return to the year 2200 by improving the region's WEEE waste management with the help of Maria, a 16-year-old teenager and her 9-year-old brother Rafael, both students at a rural public school in Colombia.",
     "app-simulators-spanish-title": "Simulators spanish",
     "app-simulators-spanish-description":
       "Performs interactive simulations in Physics, Chemistry and Science based on the PhET project at the University of Colorado, Boulder, under licence CC-BY-4.0. These resources are supported by extensive educational research and engage students through an intuitive and playful environment where they learn by exploring and discovering.",
