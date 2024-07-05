@@ -184,7 +184,7 @@ export const headerMenulist = [
   {
     id: "digital-tools",
     name: `${header["header-category-digital-tools"]}`,
-    is_enable: true,
+    is_enable: false,
   },
   {
     id: "simulators",
@@ -278,7 +278,7 @@ export const apps = [
         description: `${sectionApps["app-simulators-spanish-description"]}`,
         ltitle: `${sectionApps["app-simulators-spanish-license-title"]}`,
         ldescription: `${sectionApps["app-simulators-spanish-license-description"]}`,
-        url: "http://tumlab.local:8087/phet_es_2022-12/A/index.html",
+        url: "http://tumlab.local:8087/viewer#phet_es_2023-01",
       },
       {
         id: "simulators-english",
@@ -325,7 +325,7 @@ export const apps = [
         description: `${sectionApps["app-wikipedia-description"]}`,
         ltitle: `${sectionApps["app-wikipedia-license-title"]}`,
         ldescription: `${sectionApps["app-wikipedia-license-description"]}`,
-        url: "http://tumlab.local:8087/viewer#wikipedia_en_all_maxi_2023-11/A/User:The_other_Kiwix_guy/Landing",
+        url: "http://tumlab.local:8087/viewer#wikipedia_es_all_maxi_2023-10/A/Wikipedia:Offline",
       },
 
       {
