@@ -378,7 +378,7 @@ export const apps = [
         description: `${sectionApps["app-krita-description"]}`,
         ltitle: `${sectionApps["app-krita-license-title"]}`,
         ldescription: `${sectionApps["app-krita-license-description"]}`,
-        url: "http://192.168.4.1:8086",
+        url: "http://tumlab.local/krita/krita-x64-5.2.2-setup.exe",
       },
     ],
   },
