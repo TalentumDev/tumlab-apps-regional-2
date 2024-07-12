@@ -235,7 +235,7 @@ export const apps = [
     children: [
 		{
 		  id: "mundo3d",
-		  order: 1,
+		  order: 3,
 		  is_show: false,
 		  thumbnail: "./assets/herramientas-digitales/mundo3d_logo.png",
 		  bg: "./assets/herramientas-digitales/backgroud_mundo.png",
@@ -255,7 +255,7 @@ export const apps = [
 		},
 		{
 		  id: "agau",
-		  order: 3,
+		  order: 1,
 		  is_show: true,
 		  thumbnail: "./assets/herramientas-digitales/residuos_logo.png",
 		  bg: "./assets/herramientas-digitales/backgroud_residuos.png",
