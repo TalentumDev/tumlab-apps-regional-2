@@ -184,7 +184,7 @@ export const headerMenulist = [
   {
     id: "digital-tools",
     name: `${header["header-category-digital-tools"]}`,
-    is_enable: false,
+    is_enable: true,
   },
   {
     id: "simulators",
@@ -236,7 +236,7 @@ export const apps = [
 		{
 		  id: "mundo3d",
 		  order: 1,
-		  is_show: true,
+		  is_show: false,
 		  thumbnail: "./assets/herramientas-digitales/mundo3d_logo.png",
 		  bg: "./assets/herramientas-digitales/backgroud_mundo.png",
 		  title: `${sectionApps["app-mundo3d-title"]}`,
@@ -246,7 +246,7 @@ export const apps = [
 		{
 		  id: "si-mundo3d",
 		  order: 2,
-		  is_show: true,
+		  is_show: false,
 		  thumbnail: "./assets/herramientas-digitales/regional_logo.png",
 		  bg: "./assets/herramientas-digitales/backgroud_si.png",
 		  title: `${sectionApps["app-si-mundo3d-title"]}`,
