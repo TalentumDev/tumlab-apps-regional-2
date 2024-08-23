@@ -108,11 +108,11 @@ export const en = {
       "Discover Krita, the gem od digital painting. Free and open-source licensed under the GPL, created by artists for artists. Ideal for conceptual art, textures, illustrations, and comics. Unleash your creativity with innovative tools and powerful features for beginners and experts alike!",
 	  "app-krita-license-title":"License",
 	  "app-krita-license-description":"https://krita.org/en/about/license",
-	  "app-si-mundo3d-title": "Sistema de Información Mundo 3D",
+	  "app-si-mundo3d-title": "Information System: 3D Interactive Virtual World",
 	  "app-si-mundo3d-description":
-		"Este sistema permite ingresar, monitorear y evaluar el progreso de los estudiantes mediante la recolección de datos específicos de experiencias interactivas 3D. A través de reportes y estadísticas, facilita el seguimiento del aprendizaje STEAM, permitiendo la toma de decisiones informadas para mejorar el rendimiento académico.",
-		"app-mundo3d-title": "Mundo virtual interactivo 3D",
+		"This system allows for the entry, monitoring, and evaluation of student progress through the collection of specific data from interactive 3D experiences. Through reports and statistics, it facilitates the tracking of STEAM learning, enabling informed decision-making to improve academic performance.",
+		"app-mundo3d-title": "3D Interactive Virtual World",
 		"app-mundo3d-description":
-		  "Es una innovadora herramienta educativa que utiliza una experiencia interactiva 3D para integrar disciplinas STEAM y mejorar la calidad del aprendizaje. Permite a los estudiantes participar en una vivencia inmersiva y lúdica, mientras personalizan sus avatares y seleccionan aventuras educativas específicas desarrolladas en los departamentos del Cauca, Nariño y Valle del Cauca.",
+		  "It is an innovative educational tool that uses an interactive 3D experience to integrate STEAM disciplines and enhance the quality of learning. It allows students to engage in an immersive and playful experience while personalizing their avatars and selecting specific educational adventures developed in the departments of Cauca, Nariño, and Valle del Cauca.",
   },
 };

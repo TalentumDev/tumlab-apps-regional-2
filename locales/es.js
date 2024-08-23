@@ -106,7 +106,7 @@ export const es = {
       "Descubre Krita, la joya de la pintura digital. Gratuito y de código libre, creado por artistas para artistas. Krita esta bajo la licencia de GPL, Versión 3. Ideal para arte conceptual, texturas, ilustraciones y cómics. ¡Desata tu creatividad con herramientas innovadoras y potentes funciones para principiantes y expertos!",
 	  "app-krita-license-title":"Licencia",
 	  "app-krita-license-description":"https://krita.org/en/about/license",
-	  "app-si-mundo3d-title": "Sistema de Información Mundo 3D",
+	  "app-si-mundo3d-title": "Sistema de Información: Mundo Virtual Interactivo 3D",
 	  "app-si-mundo3d-description":
 		"Este sistema permite ingresar, monitorear y evaluar el progreso de los estudiantes mediante la recolección de datos específicos de experiencias interactivas 3D. A través de reportes y estadísticas, facilita el seguimiento del aprendizaje STEAM, permitiendo la toma de decisiones informadas para mejorar el rendimiento académico.",
 		"app-mundo3d-title": "Mundo virtual interactivo 3D",
